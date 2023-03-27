@@ -1,5 +1,5 @@
 ## Queue_Line_Manager
-# This is a C++ program that simulates a queue system for issuing and serving tickets.
+This is a C++ program that simulates a queue system for issuing and serving tickets.
 
 It is intended to be used in an environment where people need to wait in line to be served by some service provider such as a bank or a supermarket checkout line.
 The program defines a class called `clsQueueLine` which contains a queue of `clsTicket` objects.
